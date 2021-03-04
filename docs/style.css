@@ -15,3 +15,6 @@ ol {list-style-type: lower-alpha;
 padding: 5em;
     
 }
+span.italic{
+   color:red; 
+}
