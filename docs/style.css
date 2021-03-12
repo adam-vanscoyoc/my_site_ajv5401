@@ -11,7 +11,7 @@ font-family: arial, helvetica, sans-serif;
  * If I want to change the styling of internal elements, I can just enter their names and apply CSS properties to them, following CSS syntax. 
  */
 
-ol {list-style-type: lower-alpha;
+ol {list-style-type: decimal;
 padding: 5em;
     
 }
